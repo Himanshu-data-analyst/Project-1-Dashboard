@@ -76,8 +76,7 @@ IF(
 
 🍽️ Background Table
 
-  ![1_Salary_Dashboard_Screenshot2](https://github.com/user-attachments/assets/278bb9ab-0a86-4f15-951a-cdaf9ae8307b)
-
+![1_Salary_Dashboard_Screenshot1](https://github.com/user-attachments/assets/de751ba9-72bb-4184-9c76-e564b46f52c7)
 
 📉 Dashboard Implementation
 
@@ -94,11 +93,12 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+![1_Salary_Dashboard_Screenshot2](https://github.com/user-attachments/assets/1ba677ca-b5f8-42c2-8659-5e0fdebad700)  
 
-📉 Dashboard Implementation:
+📉 Dashboard Implementation:  
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+![1_Salary_Dashboard_Type](https://github.com/user-attachments/assets/1a5871c2-6547-4fbf-9bba-080ea014477a)  
+
 
 ### ❎ Data Validation
 
@@ -109,7 +109,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+![1_Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/6c87634b-280e-4ad6-886c-2c0415edd531)
 
 ## Conclusion
 
